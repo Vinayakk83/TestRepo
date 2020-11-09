@@ -1,2 +1,2 @@
 # TestRepo
-printf(" <----- Having FUN!! Testing GitHub with Git -----> ");
+<< Having FUN!! Testing GitHub with Git >>
